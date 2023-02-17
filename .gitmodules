@@ -1,0 +1,3 @@
+[submodule "MSP_Interface"]
+	path = MSP_Interface
+	url = https://github.com/MSP430-Drivers/MSP_Interface.git
